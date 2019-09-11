@@ -1,4 +1,4 @@
-## VIRTUAL YOGA INSTRUCTOR
+<h1> VIRTUAL YOGA INSTRUCTOR </h1>
 # Introduction
 A virtual yoga instructor uses PoseNet which is a machine learning model that allows
 for Real-time Human Pose Estimation and overlay a skeleton stick figure on top. Pose
