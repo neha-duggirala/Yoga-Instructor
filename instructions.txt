@@ -1,0 +1,83 @@
+﻿Output as POSE1:
+
+The current stance is Pranamasana also known as Prayer pose.
+Get ready for the next posture i.e., Hastauttanasana (Raised arms pose)
+
+Instruction for Hastauttanasana are
+
+step1	Breathing in, lift the arms up and back, keeping the biceps close to the ears.
+step2	In this pose, the effort is to stretch the whole body up from the heels to the tips of the fingers.
+
+Output as POSE2:
+
+The current stance is Hastauttanasana also known as Raised arms pose.
+Get ready for the next posture i.e., Hastapadasana (Standing forward bend)
+
+Instruction for Hastapadasana are
+step1	Breathing out, bend forward from the waist keeping the spine erect.
+step2	 As you exhale completely, bring the hands down to the floor beside the feet.
+
+Output as POSE3:
+
+The current stance is Hastapadasana also known as Standing forward bend.
+Get ready for the next posture i.e., Ashwa Sanchalanasana (Equestrian pose)
+
+Instruction for Ashwa Sanchalanasana are
+step1	Breathing in, push your right leg back, as far back as possible.
+step2	 Bring the right knee to the floor and look up.
+
+Output as POSE4:
+
+The current stance is Ashwa Sanchalanasana also known as Equestrian pose.
+Get ready for the next posture i.e., Dandasana (Stick pose)
+
+Instruction for Dandasana are
+
+step1	As you breathe in, take the left leg back and bring the whole body in a straight line.
+
+
+Output as POSE5:
+
+The current stance is Dandasana also known as Stick pose.
+Get ready for the next posture i.e., Ashtanga Namaskara (Salute with eight parts or points)
+
+Instruction for Ashtanga Namaskara are
+
+step1	Gently bring your knees down to the floor and exhale. 
+step2	Take the hips back slightly, slide forward, rest your chest and chin on the floor. 
+step3	Raise your posterior a little bit. The two hands, two feet, two knees, chest and chin (eight parts of the body) should touch the floor.
+
+Output as POSE6:
+
+The current stance is Ashtanga Namaskara also known as Salute with eight parts or points.
+Get ready for the next posture i.e., Bhujangasana (Cobra pose)
+
+Instruction for Bhujangasana are
+
+step1	Slide forward and raise the sup into the Cobra pose. You may keep your elbows bent in this pose with the shoulders away from the ears. Look up at the ceiling.
+
+Output as POSE7:
+
+The current stance is Bhujangasana also known as Cobra pose.
+Get ready for the next posture i.e., Parwatasan (Downward facing dog pose)
+
+Instruction for Parwatasan are
+
+step1	Breathing out, lift the hips and the tailbone up to bring the body into an inverted ‘V’ pose.
+
+
+Output as POSE8:
+
+The current stance is Parwatasan also known as Downward facing dog pose.
+Get ready for the next posture i.e., Pranamasana (Prayer pose)
+
+Instruction for Pranamasana are
+s
+step1	Stand at the edge of your mat.
+step2	keep your feet together and balance your weight equally on both the feet. 
+step3	Expand your chest and relax your shoulders. 
+step4	As you breathe in, lift both arms up from the sides, and as you exhale, bring your palms together in front of the chest in prayer position.
+
+
+
+
