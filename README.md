@@ -1,5 +1,5 @@
 # VIRTUAL YOGA INSTRUCTOR
-# Introduction
+### Introduction
 A virtual yoga instructor uses PoseNet which is a machine learning model that allows
 for Real-time Human Pose Estimation and overlay a skeleton stick figure on top. Pose
 estimation refers to computer vision techniques that detect human figures in images and
@@ -9,7 +9,7 @@ no personally identifiable information associated to pose detection. The algorit
 simply estimating where key body joints are. PoseNet main objective is to inspire more
 developers and makers to experiment and apply pose detection to their own unique
 projects.
-# Motivation
+### Motivation
 The body is the most complex biochemical factory we know of & learning how to
 engineer it allows us to enter sense modalities at will. We are all caught up in the rat
 race. Our mind, soul, and body need to experience a deep fulfilling joy free from all the
@@ -18,13 +18,13 @@ culture and heritage of India. In Sanskrit, yoga means to unite and describes a 
 live a healthy life. This may be a difficult practice not necessarily fun but the benefits
 from it are worth it. Our project is to motivate society to practice yoga by conceiving,
 designing, and building the prototype for a yoga instructor.
-# Definition
+### Definition
 Human pose estimation is an important problem in the field of Computer Vision. Imagine
 being able to track a person’s every small movement and do a biomechanical analysis
 in real-time. The technology will have huge implications. Applications may including
 video surveillance, assisted living, advanced driver assistance systems (ADAS) and
 sports analysis.
-# Project Objectives
+### Project Objectives
 Yoga has an ancient tradition of physical and mental training to improve well-being.
 Modern Hatha Yoga, which emphasizes physical conditioning and mental strength
 through training physical postures, has been growing in popularity over the last couple
@@ -36,14 +36,14 @@ smart assistant to provide corrective advice to guide practitioners.
 The goal is to help a user reduce stress, anxiety, and depression through a series of
 guide meditative poses.
 
-# Softwares Used
-● Spyder
-● Ipython Notebook
+### Softwares Used
+* Spyder
+* Ipython Notebook
 
-# Hardware Specification
-● The camera of Resolution greater than 720p
-● RAM size greater than 8GB
-● Nvidia GTX 1050 or greater
-# Dependencies
-● PoseNet Model
-● Tensorflow Lite
+### Hardware Specification
+* The camera of Resolution greater than 720p
+* RAM size greater than 8GB
+* Nvidia GTX 1050 or greater
+### Dependencies
+* PoseNet Model
+* Tensorflow Lite
