@@ -40,6 +40,9 @@ guide meditative poses.
 * Spyder
 * Ipython Notebook
 
+### Observations 
+The details observations of the model can be found here https://onedrive.live.com/redir?resid=C30C38F07AFCF74%211431&page=Edit&wd=target%28algo.one%7C5db73a2c-055c-4838-94b1-bbcd08d11c66%2F%29&wdorigin=717
+
 ### Hardware Specification
 * The camera of Resolution greater than 720p
 * RAM size greater than 8GB
